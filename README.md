@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Şahin</h1>
 <h3 align="center">A software engineer living in Istanbul, Turkey.</h3>
 
-- 🌱 I’m currently learning **C# and JavaScript**
+- 🌱 I’m full stack **C# and JavaScript** developer
 
 - 📫 How to reach me **sahinceliktepe@gmail.com**
 
